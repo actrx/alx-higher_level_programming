@@ -1,5 +1,3 @@
-# Tasks
-## 0. Run Python file
-Write a Shell script that runs a Python script.
-
-The Python file name will be saved in the environment variable `$PYFILE`
+# 0x00-python-hello_world tasks & their solutions
+This directory contains solutions that I submitted for the tasks
+on 0x00-python-hello_world.
